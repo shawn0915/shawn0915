@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shawn0915&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+
 ### Hi there 👋
 
 <!--
@@ -15,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawn0915&hide=HTML,Jupyter%20Notebook&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/shawn0915/github-readme-stats)
+[![ShawnYan's github stats](https://github-readme-stats.vercel.app/api?username=shawn0915&count_private=true&show_icons=true&theme=radical)](https://github.com/shawn0915/github-readme-stats)
 -->
 
-- 🔭 I’m a Cfan, an enthusiast of Operating System \ Database \ Distributed System \ Compiler.
-
-[![ShawnYan's github stats](https://github-readme-stats.vercel.app/api?username=shawn0915&count_private=true&show_icons=true&theme=radical)](https://github.com/shawn0915/github-readme-stats)
+- 🔭 I’m a Cfan, an enthusiast of OS, DBMS, Distributed System, Compiler.
