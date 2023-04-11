@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a Cfan, an enthusiast of OS, DBMS, Distributed System, Compiler.
+
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./dist/github-snake.svg" />
+</picture>
