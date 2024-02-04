@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/shawn0915/achievements?format=svg&limit=3" width="350" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shawn0915&theme=buefy&no-frame=true&row=1&margin-w=8"/>
 </p>
+
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
