@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 [![ShawnYan's github stats](https://github-readme-stats.vercel.app/api?username=shawn0915&count_private=true&show_icons=true&theme=radical)](https://github.com/shawn0915/github-readme-stats)
 -->
 
-- 🔭 I’m a Cfan, an enthusiast of OS, DBMS, Distributed System, Compiler.
+- 🔭 I’m Shawn Yan.
+  - 🌱 A Cfan, an enthusiast of OS, DBMS, Distributed System.
+- 📫 more about me: [shawnyan.cn](https://shawnyan.cn)
 
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/shawn0915/achievements?format=svg&limit=3" width="350" />
